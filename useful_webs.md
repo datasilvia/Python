@@ -32,3 +32,13 @@ Book [El Tutorial de Python](https://argentinaenpython.com/quiero-aprender-pytho
 
 
 [Python developer roadmap](https://roadmap.sh/python)
+
+
+
+# Object Oriented Programming
+
+
+[Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0&t=3184s) (Tech With Tim)
+
+
+[Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs) (FreeCodeCamp.org)
