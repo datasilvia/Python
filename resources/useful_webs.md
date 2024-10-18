@@ -38,7 +38,19 @@ Book [El Tutorial de Python](https://argentinaenpython.com/quiero-aprender-pytho
 # Object Oriented Programming
 
 
+[Python OOP Tutorial 1: Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM) (Corey Schafer)
+
+
 [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0&t=3184s) (Tech With Tim)
 
 
 [Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs) (FreeCodeCamp.org)
+
+
+[Functional Programming VS Object Oriented Programming (OOP) Which is better….?](https://medium.com/@shaistha24/functional-programming-vs-object-oriented-programming-oop-which-is-better-82172e53a526) (Shaistha Fathima)
+
+
+### Advanced Methods @classmethod @staticmethod
+
+
+[Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/) (Dan Bader)
