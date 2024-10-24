@@ -34,6 +34,12 @@ Book [El Tutorial de Python](https://argentinaenpython.com/quiero-aprender-pytho
 [Python developer roadmap](https://roadmap.sh/python)
 
 
+[Python mindmap]('https://orgpad.info/s/sbwXdJ9N5wc')
+
+
+[Comprensión de listas en Python – Con ejemplos ]('https://geekflare.com/es/list-comprehension-in-python/')
+
+
 
 # Object Oriented Programming
 
